@@ -14,7 +14,7 @@ const projects = [
     id: 2,
     name: "HR Dashboard",
     color: "bg-gray-200", // Default color
-    image: "https://via.placeholder.com/300x200/FAFAFA/000000?text=HR+Dashboard",
+    image: "https://i.imgur.com/JgDz9K5.png",
     details: "HR Dashboard project to manage employees and tasks.",
     link: "https://tarak-t.vercel.app/walkover" // Better link
   },
@@ -22,7 +22,7 @@ const projects = [
     id: 3,
     name: "Minimal Photography",
     color: "bg-gray-100", // Default color
-    image: "https://via.placeholder.com/300x200/CFCFCF/FFFFFF?text=Minimal+Photography",
+    image: "https://i.imgur.com/NVUVuhI.png",
     details: "its an simple e-commers website",
     link: "https://rentalproject-six.vercel.app/" // Better link
   }
