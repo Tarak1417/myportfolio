@@ -6,9 +6,9 @@ const projects = [
     id: 1,
     name: "Projects",
     color: "bg-gray-200", // Default color
-    image: "https://via.placeholder.com/300x200/FAFAFA/000000?text=Projects",
+    image: "https://i.imgur.com/pZiZJFh.png",
     details: "Professional team and portrait photography for branding.",
-    link: "https://example.com/projects" // Better link
+    link: "https://ship-rocket-project.vercel.app/" // Better link
   },
   {
     id: 2,

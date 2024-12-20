@@ -55,14 +55,18 @@ const Profile = () => {
               </p>
             </div>
           </div>
-          <button
-            className="hover:scale-105 transform transition duration-300 text-white px-6 py-3 rounded-full mt-4 shadow-lg w-full sm:w-auto"
-            style={{ backgroundColor: themeColor }}
-            aria-label="Download CV"
-          >
-            <span>Download CV</span>
-            <i className="fas fa-download ml-2"></i>
-          </button>
+          <a
+  href="https://drive.google.com/uc?export=download&id=17yZ0kwISJM3IXl16K_U8LcRkwWFwuufD"
+  download="Tarak_Achanta_Resume.pdf" // Suggested file name
+  className="hover:scale-105 transform transition duration-300 text-white px-4 py-2 rounded-full mt-4 shadow-lg flex items-center justify-center w-32 sm:w-40"
+  style={{ backgroundColor: themeColor }}
+  aria-label="Download CV"
+>
+  <span>Download CV</span>
+  <i className="fas fa-download ml-2"></i>
+</a>
+
+
         </div>
 
         {/* Stats Section */}
