@@ -25,6 +25,14 @@ const projects = [
     image: "https://i.imgur.com/NVUVuhI.png",
     details: "its an simple e-commers website",
     link: "https://rentalproject-six.vercel.app/" // Better link
+  },
+  {
+    id: 4,
+    name: "Spotify",
+    color: "bg-gray-100", // Default color
+    image: "https://tools.corenexis.com/image/cnxm/M24/12/22393003f3.webp",
+    details: "its an simple e-commers website",
+    link: "https://softify-iota.vercel.app/" // Better link
   }
 ];
 
