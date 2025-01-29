@@ -26,8 +26,9 @@ const Home = () => {
           <br /> Web Designer
         </h1>
         <p className="text-gray-300 text-lg md:text-l">
-          I'm  front-end developer focused on crafting clean & user-friendly experiences. 
-          I am passionate about building excellent software that improves the lives of those around
+          I'm react.js developer   & front-end developer focused on
+          crafting clean & user-friendly experiences. I am passionate about
+          building excellent software that improves the lives of those around
           me.
         </p>
         <div>
