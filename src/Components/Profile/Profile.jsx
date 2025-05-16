@@ -56,7 +56,7 @@ const Profile = () => {
             </div>
           </div>
           <a
-  href="https://drive.google.com/uc?export=download&id=17yZ0kwISJM3IXl16K_U8LcRkwWFwuufD"
+  href="https://drive.google.com/file/d/1peLlLl2tosSJPX6M48RaqOxL2UqsYdNz/view?usp=sharing"
   download="Tarak_Achanta_Resume.pdf" // Suggested file name
   className="hover:scale-105 transform transition duration-300 text-white px-4 py-2 rounded-full mt-4 shadow-lg flex items-center justify-center w-32 sm:w-40"
   style={{ backgroundColor: themeColor }}
@@ -72,9 +72,9 @@ const Profile = () => {
         {/* Stats Section */}
         <div className="grid grid-cols-2 gap-6 sm:gap-8 text-center w-full md:w-1/2">
           {[
-            { value: '1+', label: 'Years of Experience' },
+            { value: '2.5', label: 'Years of Experience' },
             { value: '10+', label: 'Completed Projects' },
-            { value: '2+', label: 'Happy Customers' },
+            { value: '5+', label: 'Happy Customers' },
             { value: '5+', label: 'Certified' },
           ].map((stat, index) => (
             <div

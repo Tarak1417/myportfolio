@@ -6,13 +6,13 @@ import { motion } from "framer-motion";
 
 
 const skills = [
-  { name: "HTML", percentage: 25 },
+  { name: "HTML", percentage: 100 },
   { name: "JavaScript", percentage: 89 },
   { name: "CSS", percentage: 70 },
   { name: "Tailwind.css", percentage: 80 },
-  { name: "React.js", percentage: 90 },
+  { name: "React.js", percentage: 100 },
   { name: "Next.js", percentage: 65 },
-  { name: "Node.js", percentage: 50 },
+  { name: "Node.js", percentage: 70 },
   { name: "Python", percentage: 60 },
 ];
 

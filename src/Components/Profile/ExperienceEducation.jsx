@@ -5,9 +5,9 @@ const ExperienceEducation = () => {
   const { selectedColor } = useContext(ThemeContext); // Use selectedColor dynamically
 
   const experienceEducationData = [
-    { year: '2024 - PRESENT', title: 'Frontend Developer', company: 'Clikkle', type: 'work' },
+    { year: '2023 - PRESENT', title: 'Frontend Developer', company: 'Algoman', type: 'work' },
     { year: '2022', title: 'B.Sc Chemistry', company: 'MVN JS and RVR Degree College', type: 'education' },
-    { year: '2022 - 2023', title: 'Frontend Developer', company: 'Algoman', type: 'work' },
+    { year: '2022 - 2023', title: 'Frontend Developer(intern)', company: 'sky Scanner', type: 'intern' },
   ];
 
   return (
