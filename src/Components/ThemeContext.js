@@ -4,12 +4,15 @@ import React, { createContext, useState, useEffect } from 'react';
 export const ThemeContext = createContext();
 
 export const ColorProvider = ({ children }) => {
-  const [selectedColor, setSelectedColor] = useState('');
+  const defaultColor = 'blue'; // Set your default color here
+  const [selectedColor, setSelectedColor] = useState(defaultColor);
 
   // Load saved color from localStorage when the app loads
   useEffect(() => {
     const savedColor = localStorage.getItem('globalColor');
-    if (savedColor) setSelectedColor(savedColor);
+    if (savedColor) {
+      setSelectedColor(savedColor);
+    }
   }, []);
 
   // Update the color and persist it

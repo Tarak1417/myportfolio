@@ -10,14 +10,14 @@ const projects = [
     details: "Professional team and portrait photography for branding.",
     link: "https://ship-rocket-project.vercel.app/" // Better link
   },
-  {
-    id: 2,
-    name: "HR Dashboard",
-    color: "bg-gray-200", // Default color
-    image: "https://i.imgur.com/JgDz9K5.png",
-    details: "HR Dashboard project to manage employees and tasks.",
-    link: "https://tarak-t.vercel.app/walkover" // Better link
-  },
+  // {
+  //   id: 2,
+  //   name: "HR Dashboard",
+  //   color: "bg-gray-200", // Default color
+  //   image: "https://i.imgur.com/JgDz9K5.png",
+  //   details: "HR Dashboard project to manage employees and tasks.",
+  //   link: "https://tarak-t.vercel.app/walkover" // Better link
+  // },
   {
     id: 3,
     name: "Minimal Photography",
