@@ -10,14 +10,14 @@ const projects = [
     details: "Professional team and portrait photography for branding.",
     link: "https://ship-rocket-project.vercel.app/" // Better link
   },
-  // {
-  //   id: 2,
-  //   name: "HR Dashboard",
-  //   color: "bg-gray-200", // Default color
-  //   image: "https://i.imgur.com/JgDz9K5.png",
-  //   details: "HR Dashboard project to manage employees and tasks.",
-  //   link: "https://tarak-t.vercel.app/walkover" // Better link
-  // },
+  {
+    id: 2,
+    name: "HR Dashboard",
+    color: "bg-gray-200", // Default color
+    image: "https://i.imgur.com/JgDz9K5.png",
+    details: "HR Dashboard project to manage employees and tasks.",
+    link: "https://tarak-t.vercel.app/walkover" // Better link
+  },
   {
     id: 3,
     name: "Minimal Photography",
@@ -33,6 +33,14 @@ const projects = [
     image: "https://tools.corenexis.com/image/cnxm/M24/12/22393003f3.webp",
     details: "its an simple e-commers website",
     link: "https://softify-iota.vercel.app/" // Better link
+  },
+  {
+    id: 5,
+    name: "fossandhra",
+    color: "bg-gray-100", // Default color
+    image: "https://image2url.com/images/1756892571673-45dcf612-40b3-41e0-8a77-5aa26ba71d08.png",
+    details: "its an simple e-commers website",
+    link: "https://fossandhra.vercel.app/" // Better link
   }
 ];
 
